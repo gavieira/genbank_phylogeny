@@ -1,3 +1,4 @@
 taxdb/
 blast_teste/
 *.ipynb_checkpoints*
+.ipynb_checkpoints/
